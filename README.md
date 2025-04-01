@@ -14,4 +14,4 @@ Welcome to my neural networks learning repository! This is where I document my j
 ## 💻 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/UnderstandingNN.git
+   git clone https://github.com/RohanHarichandan/UnderstandingNN.git
